@@ -2,7 +2,7 @@ import torch
 from torch import nn
 from torch.nn import functional as F
 from torch.nn import Parameter
-from utils import *
+from object_eraser.utils import *
 
 #-----------------------------------------------
 #                Normal ConvBlock

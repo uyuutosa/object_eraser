@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import torch
 
-from src import network
+from object_eraser import network
 
 
 # ----------------------------------------

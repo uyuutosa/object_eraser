@@ -3,7 +3,7 @@ from numpy import *
 import numpy as np
 from easydict import EasyDict
 import cv2
-from network import GatedGenerator
+from object_eraser.network import GatedGenerator
 from torchvision.transforms import ToTensor
 import PIL.Image as I
 
